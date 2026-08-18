@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/gThumb-AppImage)](https://github.com/pkgforge-dev/gThumb-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://gitlab.gnome.org/GNOME/gthumb/-/raw/master/data/icons/public/hicolor/256x256/apps/app.gthumb.gthumb.png?ref_type=heads" width="128" />
+  <img src="https://gitlab.gnome.org/GNOME/gthumb/-/raw/master/data/icons/org.gnome.gthumb.svg?ref_type=heads" width="128" />
 </p>
 
 
@@ -19,7 +19,7 @@
 
 ---
 
-AppImage made using [sharun](https://github.com/VHSgunzo/sharun) and its wrapper [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
+AppImage made using [quick-sharun](https://github.com/pkgforge-dev/Anylinux-AppImages/blob/main/useful-tools/quick-sharun.sh), which makes it extremely easy to turn any binary into a portable package reliably without using containers or similar tricks. 
 
 **This AppImage bundles everything and it should work on any Linux distro, including old and musl-based ones.**
 
